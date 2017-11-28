@@ -1,0 +1,21 @@
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2017-11-19 19:14:30 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [++.......................] 1/12 - 8.3%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [++++.....................] 2/12 - 16.7%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [++++++...................] 3/12 - 25.0%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [++++++++.................] 4/12 - 33.3%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [++++++++++...............] 5/12 - 41.7%
+[WARNING ] Reading multi-row vector: row 125259 should have 10 values (has 20)
+[WARNING ] Reading multi-row vector: row 125263 should have 10 values (has 20)
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [++++++++++++.............] 6/12 - 50.0%
+[WARNING ] Reading multi-row vector: row 127284 should have 12 values (has 20)
+[WARNING ] Reading multi-row vector: row 127291 should have 12 values (has 20)
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [+++++++++++++++..........] 7/12 - 58.3%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [+++++++++++++++++........] 8/12 - 66.7%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [+++++++++++++++++++......] 9/12 - 75.0%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [+++++++++++++++++++++....] 10/12 - 83.3%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [+++++++++++++++++++++++..] 11/12 - 91.7%
+[INFO    ] Loading 'mghc2cnr_cn3ch13chtiog3tio.dat': [+++++++++++++++++++++++++] 12/12 - 100.0%
